@@ -4,9 +4,13 @@
 
 **当前是 0.5.0 客户端候选版。正式团队服务器尚未升级个人设置接口，本次只发布安装交付与验收候选，不代表已完成正式服务上线。Windows、WorkBuddy 导入/执行及首次 Harness 安装仍待实机验证。**
 
-## 私有访问
+## 公开安装入口
 
-本仓库为私有仓库。管理员先为成员的GitHub账号授予仓库访问权限，成员登录GitHub后读取说明和下载Release。GitHub仓库权限只用于取得安装包，不授予团队项目资料访问权；团队邀请码由管理员另行发送。
+本仓库公开可读，成员和 Agent 无需登录 GitHub 即可读取安装说明、下载 Skill。团队业务数据仍保存在团队服务器，只有使用单独取得的邀请码完成团队登录后，才能按项目权限访问。
+
+给 Agent 的固定文本链接：
+
+https://raw.githubusercontent.com/jindaren1988-daren/team-workbench-install/main/INSTALL.md
 
 ## 给成员的入口
 
