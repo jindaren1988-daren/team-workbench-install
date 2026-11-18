@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Team workbench",
+    "description": "Team projects, todos and memory inside Harness: one sidebar entry synced to the team server; the model searches memory and proposes new entries that a person confirms.",
+    "detail": "docs/DETAIL.md"
+  }
+}

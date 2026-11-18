@@ -1,0 +1,14 @@
+{
+  "name": "@team/dsh-team-workbench-formal",
+  "version": "0.5.0",
+  "files": {
+    "package.json": "1f05a0dac8c661a15b173713f405661bdb8832ba7978d0940e3aef2304b69150",
+    "index.js": "82b728c6aa8c86a8dc868ead146a0c59f9d24b06dbc36e666a36a1adc2b16fb1",
+    "client.js": "e85ceda74b3a728190a7941d1946a9d359519d5f7f2ba9f2c04001f0ffae053c",
+    "cordis.patch.yml": "9f337b975f93643d885391f90b8918b9a7af23ec3c6d4556fcdc7e0d1d09213e",
+    "icon.svg": "f23c70a258262bf8548a7fdbfae41378f6aed78267c5df9c66a3e4c65d5748a4",
+    "locale/en.json": "b4c2aa085bcb2fa314d6d411c81d5853b5a9dc4d74c212e7ba7da94a0bd053bf",
+    "locale/zh.json": "7be94b41782fcd3f7bc62a3a5d074956eca9b3146711c361eaa80388a6e8f937",
+    "docs/DETAIL.md": "0005d30f43d86d648d65fe7a39535d6f7ab196867a2e07d1e6f228b7b06b8248"
+  }
+}

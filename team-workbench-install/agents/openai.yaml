@@ -1,0 +1,4 @@
+interface:
+  display_name: "安装团队工作台"
+  short_description: "安装 Harness 团队插件并保留个人工作台和会话"
+  default_prompt: "使用 $team-workbench-install 安装团队工作台，核实官方 App 已退出后安装到日常 desktop，并保留现有配置；仅明确测试时使用隔离预览。"

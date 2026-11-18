@@ -1,0 +1,3 @@
+- insert:
+    - id: team-workbench-formal
+      name: '@team/dsh-team-workbench-formal'

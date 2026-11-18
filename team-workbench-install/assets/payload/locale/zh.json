@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "团队工作台",
+    "description": "把团队的项目、待办与记忆带进 Harness：侧栏一个入口，数据同步到团队服务器；模型可检索记忆并提议新记忆，由人确认。",
+    "detail": "docs/DETAIL.md"
+  }
+}
