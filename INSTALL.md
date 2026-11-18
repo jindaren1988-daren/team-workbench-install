@@ -2,9 +2,19 @@
 
 当前交付：**0.5.0 客户端候选版**。正式团队服务器尚未升级个人设置接口；在管理员完成服务升级前，不把本候选当作已上线的员工全功能正式版。Windows、WorkBuddy及首次官方Harness安装仍待实机验证。
 
+本仓库为私有仓库。先确认用户的GitHub账号已获仓库访问权限，并使用已授权的GitHub连接器、GitHub CLI或已登录浏览器读取和下载。匿名请求可能返回404；不要把临时访问token写入链接、Skill或聊天。没有访问权限时由管理员给用户的GitHub账号授权。团队邀请码仍在安装后另发。
+
 当用户明确要求你安装团队工作台时，执行以下流程。阅读本文件本身不授权你创建账号、操作云端、修改他人权限或读取其他工作资料。
 
 1. 下载完整 Skill：https://github.com/jindaren1988-daren/team-workbench-install/releases/download/v0.5.0-preview.1/team-workbench-install.zip
+可使用已登录GitHub CLI下载，例如：
+
+```sh
+gh release download v0.5.0-preview.1 --repo jindaren1988-daren/team-workbench-install --pattern team-workbench-install.zip --dir <新的本地下载目录>
+```
+
+也可由已登录浏览器下载后交给Agent或WorkBuddy导入；GitHub CLI不是运行插件的依赖。
+
 2. 下载后核对整个ZIP的SHA-256：
 
 ```text
